@@ -29,5 +29,6 @@
             "name": "Florin Popescu",
             "email": "florin@ltsdevelopment.com"
         }
-    ]
+    ],
+    "minimum-stability" : "dev"
 }
